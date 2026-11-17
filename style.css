@@ -1,0 +1,65 @@
+p{
+ color: blue;   
+}
+
+
+.important{
+color: chocolate;    
+}
+
+
+#blabla{
+  color: forestgreen;  
+}
+
+
+
+
+.rouge{
+ color: red;   
+}
+
+
+
+.bleu{
+ color: blue;   
+}
+
+
+.jaune{
+ color: yellow;   
+}
+
+
+
+
+body{
+    color: blue;
+    background: black;
+    text-shadow: 3px 3px 0px #FFFFFF, 5px 4px 0px rgba(red,blue, alpha) (0,0,0,0,15);
+
+}
+
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-style: solid;
+    box-shadow: 10px 10px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
